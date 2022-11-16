@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=eba7a16d-d4b0-43e1-916c-81931da760b5
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
+AUUID=f27f3355-c2ef-4ec1-83b0-ac3060cbc1bd
+CADDYIndexPage=https://github.com/p4gefau1t/trojan-go/releases
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
